@@ -1,0 +1,33 @@
+{
+    "namespace": "artbees_license",
+    "routes": {
+        "/artbees_license": {
+            "namespace": "artbees_license",
+            "methods": ["GET"],
+            "endpoints": [{ "methods": ["GET"], "args": { "namespace": { "default": "artbees_license", "required": false }, "context": { "default": "view", "required": false } } }],
+            "_links": { "self": [{ "href": "https://my.artbees.net/wp-json/artbees_license" }] }
+        },
+        "/artbees_license/register": { "namespace": "artbees_license", "methods": ["POST"], "endpoints": [{ "methods": ["POST"], "args": [] }], "_links": { "self": [{ "href": "https://my.artbees.net/wp-json/artbees_license/register" }] } },
+        "/artbees_license/revoke": { "namespace": "artbees_license", "methods": ["POST"], "endpoints": [{ "methods": ["POST"], "args": [] }], "_links": { "self": [{ "href": "https://my.artbees.net/wp-json/artbees_license/revoke" }] } },
+        "/artbees_license/validate": { "namespace": "artbees_license", "methods": ["POST"], "endpoints": [{ "methods": ["POST"], "args": [] }], "_links": { "self": [{ "href": "https://my.artbees.net/wp-json/artbees_license/validate" }] } },
+        "/artbees_license/verify/api_key": {
+            "namespace": "artbees_license",
+            "methods": ["POST"],
+            "endpoints": [{ "methods": ["POST"], "args": [] }],
+            "_links": { "self": [{ "href": "https://my.artbees.net/wp-json/artbees_license/verify/api_key" }] }
+        },
+        "/artbees_license/verify_only/api_key": {
+            "namespace": "artbees_license",
+            "methods": ["GET"],
+            "endpoints": [{ "methods": ["GET"], "args": [] }],
+            "_links": { "self": [{ "href": "https://my.artbees.net/wp-json/artbees_license/verify_only/api_key" }] }
+        },
+        "/artbees_license/v1/verify": {
+            "namespace": "artbees_license",
+            "methods": ["POST"],
+            "endpoints": [{ "methods": ["POST"], "args": [] }],
+            "_links": { "self": [{ "href": "https://my.artbees.net/wp-json/artbees_license/v1/verify" }] }
+        }
+    },
+    "_links": { "up": [{ "href": "https://my.artbees.net/wp-json/" }] }
+}
