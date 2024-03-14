@@ -15,5 +15,5 @@
             "_links": { "self": [{ "href": "https://heyibnusina.github.io/json/themes/filter-themes.json" }] }
         }
     },
-    "_links": { "up": [{ "href": "https://my.artbees.net/wp-json/" }] }
+    "_links": { "up": [{ "href": "https://heyibnusina.github.io/json/data.json" }] }
 }
