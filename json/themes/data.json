@@ -1,0 +1,19 @@
+{
+    "namespace": "templates/v1",
+    "routes": {
+        "/templates/v1": {
+            "namespace": "templates/v1",
+            "methods": ["GET"],
+            "endpoints": [{ "methods": ["GET"], "args": { "namespace": { "default": "templates/v1", "required": false }, "context": { "default": "view", "required": false } } }],
+            "_links": { "self": [{ "href": "https://heyibnusina.github.io/json/themes/data.json" }] }
+        },
+        "/templates/v1/list": { "namespace": "templates/v1", "methods": ["GET"], "endpoints": [{ "methods": ["GET"], "args": [] }], "_links": { "self": [{ "href": "https://heyibnusina.github.io/json/themes/themes.json" }] } },
+        "/templates/v1/filter_criterias": {
+            "namespace": "templates/v1",
+            "methods": ["GET"],
+            "endpoints": [{ "methods": ["GET"], "args": [] }],
+            "_links": { "self": [{ "href": "https://heyibnusina.github.io/json/themes/filter-themes.json" }] }
+        }
+    },
+    "_links": { "up": [{ "href": "https://my.artbees.net/wp-json/" }] }
+}

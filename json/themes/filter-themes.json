@@ -1,0 +1,179 @@
+{
+    "categories": [
+        { "name": "Blog / Magazine", "slug": "blog-magazine", "count": 26 },
+        { "name": "Corporate", "slug": "corporate", "count": 48 },
+        { "name": "Creative / Portfolio", "slug": "creative-portfolio", "count": 114 },
+        { "name": "Education", "slug": "education", "count": 10 },
+        { "name": "Entertainment", "slug": "entertainment", "count": 12 },
+        { "name": "Events", "slug": "events", "count": 18 },
+        { "name": "Food", "slug": "food", "count": 49 },
+        { "name": "Health &amp; Beauty", "slug": "health-beauty", "count": 20 },
+        { "name": "Listing / Directory", "slug": "listing-directory", "count": 47 },
+        { "name": "Misc", "slug": "misc", "count": 8 },
+        { "name": "Non Profit", "slug": "non-profit", "count": 7 },
+        { "name": "Products / App", "slug": "products-app", "count": 43 },
+        { "name": "Service", "slug": "service", "count": 96 },
+        { "name": "Shop", "slug": "shop", "count": 98 },
+        { "name": "Sports", "slug": "sports", "count": 22 },
+        { "name": "Travel", "slug": "travel", "count": 12 }
+    ],
+    "meta_fields": [
+        {
+            "title": "Theme Name",
+            "name": "_product_id",
+            "type": "select",
+            "description": "",
+            "is_timestamp": "false",
+            "is_multiple": "false",
+            "options": [
+                { "key": "25348", "value": "Jupiter X", "id": 2297 },
+                { "key": "10109", "value": "Jupiter", "id": 4171 },
+                { "key": "10184", "value": "The Ken", "id": 7356 }
+            ],
+            "width": "100%",
+            "object_type": "field",
+            "isNested": false,
+            "id": 7497
+        },
+        {
+            "title": "Template Style",
+            "name": "_template_style",
+            "type": "select",
+            "description": "",
+            "is_timestamp": "false",
+            "is_multiple": "true",
+            "options": [
+                { "key": "minimal", "value": "Minimal", "id": 8044 },
+                { "key": "flat", "value": "Flat", "id": 6097 },
+                { "key": "elegant", "value": "Elegant", "id": 6008 },
+                { "key": "parallax", "value": "Parallax", "id": 9058 }
+            ],
+            "width": "100%",
+            "object_type": "field",
+            "isNested": false,
+            "id": 8918
+        },
+        {
+            "title": "Header Type",
+            "name": "_header_type",
+            "type": "select",
+            "description": "",
+            "is_timestamp": "false",
+            "is_multiple": "true",
+            "options": [
+                { "key": "regular", "value": "Regular", "id": 7506 },
+                { "key": "transparent", "value": "Transparent", "id": 2624 },
+                { "key": "vertical", "value": "Vertical", "id": 4759 },
+                { "key": "multi_row", "value": "Multi Row", "id": 8824 }
+            ],
+            "width": "100%",
+            "object_type": "field",
+            "isNested": false,
+            "id": 5491
+        },
+        {
+            "title": "Menu Type",
+            "name": "_menu_type",
+            "type": "select",
+            "description": "",
+            "is_timestamp": "false",
+            "is_multiple": "true",
+            "options": [
+                { "key": "burger", "value": "Burger", "id": 7057 },
+                { "key": "full_screen", "value": "Full Screen", "id": 9822 },
+                { "key": "mega_menu", "value": "Mega Menu", "id": 3485 },
+                { "key": "normal", "value": "Normal", "id": 8824 }
+            ],
+            "width": "100%",
+            "object_type": "field",
+            "isNested": false,
+            "id": 7769
+        },
+        {
+            "title": "Content",
+            "name": "_content_type",
+            "type": "select",
+            "description": "",
+            "is_timestamp": "false",
+            "is_multiple": "true",
+            "options": [
+                { "key": "one_page", "value": "One Page", "id": 3819 },
+                { "key": "multi_page", "value": "Multi-Page", "id": 6949 }
+            ],
+            "width": "100%",
+            "object_type": "field",
+            "isNested": false,
+            "id": 3274
+        },
+        {
+            "title": "Components",
+            "name": "_components",
+            "type": "select",
+            "description": "",
+            "is_timestamp": "false",
+            "is_multiple": "true",
+            "options": [
+                { "key": "slideshow", "value": "Slideshow", "id": 1238 },
+                { "key": "popup", "value": "Popup", "id": 7717 },
+                { "key": "portfolio", "value": "Portfolio", "id": 1591 },
+                { "key": "blog", "value": "Blog", "id": 5945 },
+                { "key": "shop", "value": "Shop", "id": 2681 },
+                { "key": "booking_form", "value": "Booking Forms", "id": 6635 }
+            ],
+            "width": "100%",
+            "object_type": "field",
+            "isNested": false,
+            "id": 4405
+        },
+        { "title": "Demo URL", "name": "_demo_url", "type": "text", "description": "", "is_timestamp": "false", "is_multiple": "false", "width": "100%", "object_type": "field", "options": [], "isNested": false, "id": 2825 },
+        {
+            "title": "List of Used Plugins",
+            "name": "_list_of_used_plugins",
+            "object_type": "field",
+            "width": "100%",
+            "options": [
+                { "key": "Jupiterx Core", "value": "Jupiterx Core", "is_checked": true, "id": 9358 },
+                { "key": "Jet Elements", "value": "Jet Elements", "is_checked": true, "id": 4787 },
+                { "key": "Jet Tabs", "value": "Jet Tabs", "id": 7204 },
+                { "key": "Jet Engine", "value": "Jet Engine", "id": 6573 },
+                { "key": "Jet Smart Filters", "value": "Jet Smart Filters", "id": 5308 },
+                { "key": "Jet Popup", "value": "Jet Popup", "id": 1922 },
+                { "key": "Jet Menu", "value": "Jet Menu", "id": 3688 },
+                { "key": "Jet Tricks", "value": "Jet Tricks", "id": 9290 },
+                { "key": "Jet Blog", "value": "Jet Blog", "id": 6336 },
+                { "key": "Advanced Custom Fields", "value": "Advanced Custom Fields", "is_checked": true, "id": 2807 },
+                { "key": "Revslider", "value": "Revslider", "id": 7311 },
+                { "key": "Masterslider", "value": "Masterslider", "id": 2721 },
+                { "key": "Layerslider", "value": "Layerslider", "id": 4205 },
+                { "key": "Woocommerce", "value": "Woocommerce", "id": 2545 },
+                { "key": "Elementor", "value": "Elementor", "is_checked": true, "id": 9464 },
+                { "key": "Jet Woo Builder", "value": "Jet Woo Builder", "id": 8008 },
+                { "key": "Menu Icons", "value": "Menu Icons", "id": 6357 }
+            ],
+            "type": "select",
+            "isNested": false,
+            "is_multiple": true,
+            "description": "Pick the list of plugins that is used in this template",
+            "is_required": true,
+            "id": 1133
+        },
+        { "title": "Mobile Thumbnail", "name": "_mobile_thumb", "type": "media", "description": "", "is_timestamp": "false", "is_multiple": "false", "width": "100%", "object_type": "field", "options": [], "isNested": false, "id": 5846 },
+        { "title": "Template Zip Package", "name": "_package", "type": "media", "description": "", "is_timestamp": "false", "is_multiple": "false", "width": "100%", "object_type": "field", "options": [], "isNested": false, "id": 6066 },
+        {
+            "title": "AWS Template Status",
+            "name": "_aws_status_description",
+            "type": "text",
+            "description": "",
+            "is_timestamp": "false",
+            "is_multiple": "false",
+            "width": "100%",
+            "object_type": "field",
+            "options": [],
+            "isNested": false,
+            "id": 3688
+        },
+        { "title": "Template Design Package", "name": "_psd", "type": "media", "description": "", "is_timestamp": "false", "is_multiple": "false", "width": "100%", "object_type": "field", "options": [], "isNested": false, "id": 9373 },
+        { "title": "Sketch file?", "name": "_is_sketch", "object_type": "field", "width": "100%", "options": [], "type": "switcher", "description": "If the design package is sketch enable this option", "isNested": false, "id": 6944 },
+        { "title": "Free Template?", "name": "_free_template", "type": "switcher", "description": "", "is_timestamp": "false", "is_multiple": "false", "width": "100%", "object_type": "field", "options": [], "isNested": false, "id": 4098 }
+    ]
+}
