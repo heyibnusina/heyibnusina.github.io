@@ -49,19 +49,19 @@ var freakouts = [
 ];
 
 var has_answered = [
-  'hrm, I am unable to establish a spiritual uplink.',
-  'That is an interesting question. I am choosing not to answer.',
-  'I like it better when your friend asks the questions.',
-  'I do not like you, and will not answer.',
-  'I am Noe, and I do not answer to you.'
+  'Hmm, aku tidak bisa membangun hubungan spiritual denganmu.',
+  'Itu pertanyaan yang menarik. Aku memilih untuk tidak menjawab.',
+  'Aku lebih suka jika temanmu yang mengajukan pertanyaan.',
+  'Aku tidak menyukaimu, pergi sana.',
+  'Aku Noe, dan aku tidak mau menjawab pertanyaanmu.'
 ];
 
 var no_answer = [
-  'Unable to extablish spiritual uplink.',
-  'The connection to TanyaNoe v3 has failed, try again.',
-  'Maybe you could ask me tomorrow?',
-  'Eh, I\'ve decided not to answer.',
-  'Wouldn\'t you like to know.',
+  'Tidak dapat menghubungkan entitas spiritual.',
+  'Koneksi ke TanyaNoe V3 gagal, coba lagi.',
+  'Coba tanya pertanyaan ini lagi besok.',
+  'Eh, aku tidak mau jawab.',
+  'Aku tidak mau kamu tahu.',
 ]
 
 
